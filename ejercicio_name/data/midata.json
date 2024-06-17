@@ -1,0 +1,12 @@
+{
+    "1": {
+        "nombre": "cam",
+        "edad": 19,
+        "telefono": 350
+    },
+    "2": {
+        "nombre": "lau",
+        "edad": 20,
+        "telefono": 356
+    }
+}
